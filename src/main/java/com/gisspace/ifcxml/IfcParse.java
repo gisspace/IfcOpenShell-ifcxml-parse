@@ -118,6 +118,6 @@ public class IfcParse {
 		return ifcproperty;
 	}
 	public static void main(String[] args) {
-		IfcParse.getInstance().getIfcProperty("D:\\c-workspace\\ifcopenshell-all\\IfcOpenShell-fork\\_installed-vs2017-x64\\bin\\ifcxml.xml");
+		IfcParse.getInstance().getIfcProperty("ifcxml.xml");
 	}
 }
